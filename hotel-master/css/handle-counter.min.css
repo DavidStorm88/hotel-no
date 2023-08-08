@@ -8,7 +8,7 @@
     font-size: 2vw;
     font-weight: 900;
    border: 3px transparent;
-  color: #fff;
+  color: #e3d3d3;
 
 }
 
@@ -17,11 +17,11 @@
 
 
 .btn:disabled, .btn:disabled:hover {
-  background-color: #8a364d;
+  background-color: #7e2039;
   
 }
 
-.btn-primary { background-color: #ea4370; }
+.btn-primary { background-color: #dd3361; }
 
 .btn-primary:hover, .btn-primary:focus { background-color: #d3305c; 
 
